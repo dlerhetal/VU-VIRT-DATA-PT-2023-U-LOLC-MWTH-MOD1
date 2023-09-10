@@ -30,3 +30,5 @@ Nathan Johnson
 William Brewer
 
 The three peers whom I recall providing me with the most feedback and insight were Josh Gibson, Margo Berry, and Morgan Escue; however, I think you'll find we did not all agree about every single aspect of either our methods or findings. I am grateful to my collegues and eager to work together as a team, but every part of this project represents my personal work, and nothing has been lifted from a peer.
+
+The Google Drive location for this file is as follows: https://drive.google.com/drive/folders/1ftSYUHON0nk9xDJUViEEXeXa9TUEZqcA?usp=drive_link
